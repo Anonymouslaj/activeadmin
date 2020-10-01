@@ -8,64 +8,7 @@ extends:
 globals:
   $: false
   Atomics: readonly
-  jQuery: false
-  SharedArrayBuffer: readonly
-  Turbolinks: false
-parserOptions:
-  ecmaVersion: 2018
-  sourceType: module
-rules:
-  accessor-pairs: error
-  array-bracket-newline: error
-  array-bracket-spacing: 'off'
-  array-callback-return: error
-  array-element-newline: 'off'
-  arrow-body-style: 'off'
-  arrow-parens: 'off'
-  arrow-spacing:
-    - error
-    - after: true
-      before: true
-  block-scoped-var: error
-  block-spacing:
-    - error
-    - always
-  brace-style:
-    - error
-    - 1tbs
-    - allowSingleLine: true
-  callback-return: 'off'
-  camelcase: 'off'
-  capitalized-comments: 'off'
-  class-methods-use-this: 'off'
-  comma-dangle: error
-  comma-spacing:
-    - error
-    - after: true
-      before: false
-  comma-style:
-    - error
-    - last
-  complexity: error
-  computed-property-spacing:
-    - error
-    - never
-  consistent-return: 'off'
-  consistent-this: error
-  curly: error
-  default-case: error
-  default-param-last: error
-  dot-location: 'off'
-  dot-notation: 'off'
-  eol-last: error
-  eqeqeq: 'off'
-  func-call-spacing: error
-  func-name-matching: error
-  func-names: 'off'
-  func-style: 'off'
-  function-paren-newline: error
-  generator-star-spacing: error
-  global-require: error
+  jQuer
   grouped-accessor-pairs: error
   guard-for-in: 'off'
   handle-callback-err: error
