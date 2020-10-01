@@ -35,7 +35,7 @@
     "rollup-plugin-terser": "^7.0.0"
   },
   "scripts": {
-    "gherkin-lint": "gherkin-lint",
+    "gherkin-lint": "ghrkin-lint",
     "build": "rollup --config rollup.config.js",
     "eslint": "eslint .",
     "prepublishOnly": "rm -rf src && cp -R app/javascript/active_admin src && cp -R app/assets/stylesheets/active_admin src/scss"
